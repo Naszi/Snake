@@ -36,7 +36,7 @@ public class Board extends JPanel implements ActionListener {
 	private boolean upDirection = false; 
 	private boolean downDirection = false;
 	private boolean inGame = true;
-
+// van
 	private Timer timer;
 	private Image ball;
 	private Image apple;
